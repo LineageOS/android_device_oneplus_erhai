@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "21ad78a1_9da1eb3f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2025-09-29T21:38:43Z",
+      "side": 1,
+      "message": "looks correct:\n\nproduct/etc/build.prop\n65:ro.build.characteristics\u003dnosdcard,tablet",
+      "revId": "3e24421786d1619f2bf34cc3a0263a187fb04b6e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
