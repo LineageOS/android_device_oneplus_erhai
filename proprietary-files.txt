@@ -1325,5 +1325,6 @@ odm/etc/wifi/peach/regdb_version
 
 # Wireless pen firmware
 odm/firmware/wireless_pen/24976/cps8601_firmware.bin
+odm/firmware/wireless_pen/24976/cps8601_firmware.bin:odm/firmware/wireless_pen/24926/cps8601_firmware.bin
 
 # vi:ft=conf
