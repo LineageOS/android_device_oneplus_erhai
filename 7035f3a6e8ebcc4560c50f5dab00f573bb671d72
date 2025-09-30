@@ -16,6 +16,24 @@
       "message": "(ran beautify-rro)",
       "revId": "7035f3a6e8ebcc4560c50f5dab00f573bb671d72",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f2b63e11_7615faae",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-30T07:35:15Z",
+      "side": 1,
+      "message": "I don\u0027t like having separate lineage_config.xml.",
+      "parentUuid": "5395fdd2_83fe3ec8",
+      "revId": "7035f3a6e8ebcc4560c50f5dab00f573bb671d72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
