@@ -16,6 +16,24 @@
       "message": "can you try this patchset instead?",
       "revId": "4b9facdeeb2cb0d7121dafa0985ff0e2f251efbf",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "da2aead3_2c3e77f8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36016
+      },
+      "writtenOn": "2025-10-01T13:09:20Z",
+      "side": 1,
+      "message": "I tried patch set 2, and the symlink was created successfully. The pen works fine as well.",
+      "parentUuid": "a7aea46a_13e86249",
+      "revId": "4b9facdeeb2cb0d7121dafa0985ff0e2f251efbf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
