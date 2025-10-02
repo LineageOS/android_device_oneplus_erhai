@@ -16,6 +16,24 @@
       "message": "This is in sm8750-common tree.",
       "revId": "f290fcef1905aaa2246753b37c34bfd7d768eb3c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "59787262_a27cca78",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2025-10-02T12:03:10Z",
+      "side": 1,
+      "message": "this + if it really makes sense to remove earpiece / haptics / telephony rx/tx from it, i\u0027d just do so in 8750 common anyway.",
+      "parentUuid": "e58c4728_d85827fd",
+      "revId": "f290fcef1905aaa2246753b37c34bfd7d768eb3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
