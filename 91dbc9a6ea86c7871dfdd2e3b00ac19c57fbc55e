@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ad72b9f8_2b9f2aaf",
+        "filename": "overlay/OPlusAccessoriesResTarget/AndroidManifest.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-10-13T17:01:36Z",
+      "side": 1,
+      "message": "became redundant now",
+      "range": {
+        "startLine": 7,
+        "startChar": 52,
+        "endLine": 7,
+        "endChar": 58
+      },
+      "revId": "91dbc9a6ea86c7871dfdd2e3b00ac19c57fbc55e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
