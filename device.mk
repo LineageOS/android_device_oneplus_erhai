@@ -9,6 +9,10 @@ TARGET_IS_TABLET := true
 PRODUCT_AAPT_CONFIG := normal
 PRODUCT_AAPT_PREF_CONFIG := xxxhdpi
 
+# Accessories
+PRODUCT_PACKAGES += \
+    OplusAccessories
+
 # Audio
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/audio/audio_policy_volumes.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_policy_volumes.xml \
@@ -42,8 +46,8 @@ $(call soong_config_set,OPLUS_LINEAGE_LIVEDISPLAY_HAL,ENABLE_AB,true)
 
 # Overlays
 PRODUCT_PACKAGES += \
+    OPlusAccessoriesResTarget \
     OPlusFrameworksResTarget \
-    OPlusPenResTarget \
     OPlusSystemUIResTarget
 
 # Power
@@ -65,10 +69,6 @@ PRODUCT_PACKAGES += \
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
-
-# Wireless pen
-PRODUCT_PACKAGES += \
-    OplusPen
 
 # Inherit from the common OEM chipset makefile.
 $(call inherit-product, device/oneplus/sm8750-common/common.mk)

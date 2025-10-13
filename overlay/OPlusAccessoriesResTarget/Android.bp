@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "OPlusPenResTarget",
+    name: "OPlusAccessoriesResTarget",
     device_specific: true,
 }
