@@ -46,6 +46,30 @@
       },
       "revId": "3617d3c895a5fa702cd46d3d3e314cf3cb0554e2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "46490007_20eac02e",
+        "filename": "init/Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-11-05T09:16:18Z",
+      "side": 1,
+      "message": "Not if you name it init.erhai.rc",
+      "parentUuid": "fa3b053a_e5f00e58",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 20
+      },
+      "revId": "3617d3c895a5fa702cd46d3d3e314cf3cb0554e2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
