@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c71d53cd_37d5b91b",
+        "filename": "init/init.device.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-11-05T09:15:07Z",
+      "side": 0,
+      "message": "init.erhai.rc",
+      "revId": "9521630b6069ba563fa14df6c1288957fe34d312",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
