@@ -94,6 +94,30 @@
       },
       "revId": "3617d3c895a5fa702cd46d3d3e314cf3cb0554e2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "988390e3_51b068ec",
+        "filename": "init/Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2025-11-05T09:23:47Z",
+      "side": 1,
+      "message": "```\n$ adb wait-for-device root ; adb wait-for-device shell cat /proc/touchpanel/touch_scene_para /odm/etc/init/hw/init.erhai.rc\nadbd is already running as root\nscreen_lock_mode:0\nsensitive_level:0\nset_package_type:0\npen_sensitive_level:0\n\non boot\n    write /proc/touchpanel/touch_scene_para \"mod para_effect pen_sensitive_level:254\"\n```",
+      "parentUuid": "dfc8737d_98d42807",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 20
+      },
+      "revId": "3617d3c895a5fa702cd46d3d3e314cf3cb0554e2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
