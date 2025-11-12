@@ -34,6 +34,24 @@
       "parentUuid": "3fae220c_8ae9215c",
       "revId": "e2afb88dd7ec3abf3a4a20d6f7b94713f4b6fb79",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0c701337_b7c62d5c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2025-11-12T13:56:56Z",
+      "side": 1,
+      "message": "it is consistent with all xml files except for AndroidManifest.xml in the tree.",
+      "parentUuid": "99a04619_83ac84be",
+      "revId": "e2afb88dd7ec3abf3a4a20d6f7b94713f4b6fb79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
