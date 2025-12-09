@@ -1300,6 +1300,17 @@ odm/firmware/fastchg/charging_thermal_config_default.txt
 odm/etc/display/qdcm_calib_data_XN242_p_d_dsc_video_mode_panel.json
 
 # Display configurations
+odm/etc/PanelChaplin/3D-Lut_Center_P3.txt
+odm/etc/PanelChaplin/3D-Lut_Center_sRGB.txt
+odm/etc/PanelChaplin/3D-Lut_Enhance_P3.txt
+odm/etc/PanelChaplin/3D-Lut_Enhance_sRGB.txt
+odm/etc/PanelChaplin/3D-Lut_Stand_P3.txt
+odm/etc/PanelChaplin/3D-Lut_Stand_sRGB.txt
+odm/etc/PanelChaplin/3D-Lut_StandardMode_P3.txt
+odm/etc/PanelChaplin/3D-Lut_StandardMode_sRGB.txt
+odm/etc/PanelChaplin/AdjustValue
+odm/etc/PanelChaplin/Lut3D_311
+odm/etc/PanelChaplin/Lut3D_312
 odm/etc/PanelChaplin/XN242_p_d_dsc_video_mode_panel_1_100nit.odf
 odm/etc/PanelChaplin/XN242_p_d_dsc_video_mode_panel_1_2nit.odf
 odm/etc/PanelChaplin/XN242_p_d_dsc_video_mode_panel_1_max.odf
@@ -1344,6 +1355,7 @@ odm/etc/PanelChaplin/XN242_p_d_dsc_video_mode_panel_game_color_enhance_Nature_pG
 odm/etc/PanelChaplin/XN242_p_d_dsc_video_mode_panel_game_color_enhance_Vivid_100nits_pGC.txt
 odm/etc/PanelChaplin/XN242_p_d_dsc_video_mode_panel_game_color_enhance_Vivid_2nits_pGC.txt
 odm/etc/PanelChaplin/XN242_p_d_dsc_video_mode_panel_game_color_enhance_Vivid_pGC.txt
+odm/etc/PanelChaplin/panelchaplin
 vendor/etc/displayconfig/display_id_4630946983774026899.xml
 vendor/etc/ltm_config_XN242_p_d_dsc_video_mode_panel.xml
 
