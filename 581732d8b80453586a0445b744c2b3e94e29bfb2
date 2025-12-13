@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a52393d2_c797c5b5",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1313,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-12-13T13:16:29Z",
+      "side": 1,
+      "message": "These are actually in sm8750-common and the last time that I checked were really common amongst dodge, erhai and pagani.",
+      "range": {
+        "startLine": 1303,
+        "startChar": 0,
+        "endLine": 1313,
+        "endChar": 30
+      },
+      "revId": "581732d8b80453586a0445b744c2b3e94e29bfb2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
