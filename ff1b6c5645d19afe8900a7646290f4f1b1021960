@@ -16,6 +16,23 @@
       "message": "Here is the module https://xdaforums.com/t/rom-official-erhai-aicp-android-ice-cold-project-android-16.4764515/post-90467938",
       "revId": "ff1b6c5645d19afe8900a7646290f4f1b1021960",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6a79bb70_8a3a1a23",
+        "filename": "configs/idc/touchpanel_pen.idc",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2026-02-01T09:25:33Z",
+      "side": 1,
+      "message": "where\u0027s the source for that number?\n\n```\nerhai / # getevent -lp | grep PRESS\n                ABS_PRESSURE          : value 0, min 0, max 16383, fuzz 0, flat 0, resolution 0\n                ABS_MT_PRESSURE       : value 0, min 0, max 0, fuzz 0, flat 0, resolution 0\nerhai / # dumpsys input | grep -i pressure\n      AbsState: ABS_X\u003d0, ABS_Y\u003d0, ABS_PRESSURE\u003d0, ABS_DISTANCE\u003d0, ABS_TILT_X\u003d0, ABS_TILT_Y\u003d0\n      AbsState: ABS_MT_SLOT\u003d0, ABS_MT_TOUCH_MAJOR\u003d5, ABS_MT_WIDTH_MAJOR\u003d11, ABS_MT_POSITION_X\u003d16744, ABS_MT_POSITION_Y\u003d30590, ABS_MT_TOOL_TYPE\u003d0, ABS_MT_TRACKING_ID\u003d-1, ABS_MT_PRESSURE\u003d9\n      PRESSURE: source\u003dMOUSE, min\u003d0.000, max\u003d1.000, flat\u003d0.000, fuzz\u003d0.000, resolution\u003d0.000\n      PRESSURE: source\u003dTOUCHSCREEN, min\u003d0.000, max\u003d1.000, flat\u003d0.000, fuzz\u003d0.000, resolution\u003d0.000\n        Pressure: unknown range\n        touch.pressure.calibration: none\n        PressureScale: 0.000\n        Pressure: \u003cnot set\u003e\n      PRESSURE: source\u003dTOUCHSCREEN | STYLUS, min\u003d0.000, max\u003d1.000, flat\u003d0.000, fuzz\u003d0.000, resolution\u003d0.000\n        Pressure: min\u003d0, max\u003d16383, flat\u003d0, fuzz\u003d0, resolution\u003d0\n        touch.pressure.calibration: physical\n        PressureScale: 0.000\n        Pressure: \u003cnot set\u003e\n```",
+      "revId": "ff1b6c5645d19afe8900a7646290f4f1b1021960",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
