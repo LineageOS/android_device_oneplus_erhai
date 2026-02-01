@@ -50,6 +50,24 @@
       "message": "not sure where this number comes from either\n\n```\n\u003e\u003e\u003e \"{:.9f}\".format(1.0/65536)\n\u00270.000015259\u0027\n```\n\nor Google\u0027s answer 0.00001525878 are close, but not the same.",
       "revId": "ff1b6c5645d19afe8900a7646290f4f1b1021960",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "11674147_4d837323",
+        "filename": "configs/idc/touchpanel_pen.idc",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 16002
+      },
+      "writtenOn": "2026-02-01T09:39:22Z",
+      "side": 1,
+      "message": "I\u0027m not sure, I just took it from the module, and the user said he had help from deepseek so it might be ai slop, it seems to work though",
+      "parentUuid": "77760280_6c384dfb",
+      "revId": "ff1b6c5645d19afe8900a7646290f4f1b1021960",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
