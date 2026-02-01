@@ -37,6 +37,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "3ff83434_98e4e296",
+        "filename": "configs/idc/touchpanel_pen.idc",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 16002
+      },
+      "writtenOn": "2026-02-01T09:40:17Z",
+      "side": 1,
+      "message": "I\u0027m not sure for this one either",
+      "parentUuid": "6a79bb70_8a3a1a23",
+      "revId": "ff1b6c5645d19afe8900a7646290f4f1b1021960",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "77760280_6c384dfb",
         "filename": "configs/idc/touchpanel_pen.idc",
         "patchSetId": 1
