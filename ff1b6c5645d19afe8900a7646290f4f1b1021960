@@ -18,6 +18,23 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "78494775_de0b6391",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2026-02-01T09:49:25Z",
+      "side": 1,
+      "message": "try dtbo with\nremote:   https://review.lineageos.org/c/LineageOS/android_kernel_oneplus_sm8750-devicetrees/+/472270 erhai: Correct touchpanel,pen-max-pressure value [NEW]\ninstead.",
+      "revId": "ff1b6c5645d19afe8900a7646290f4f1b1021960",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "6a79bb70_8a3a1a23",
