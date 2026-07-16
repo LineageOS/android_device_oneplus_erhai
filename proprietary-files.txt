@@ -77,6 +77,18 @@ odm/etc/oprec_audrec_params/2mic/oprec_audrec_parameter_2mic_ID9_MIC_Voice.bin
 odm/etc/oprec_audrec_params/2mic/oprec_audrec_parameter_2mic_ID9_MIC_Voice.txt
 odm/etc/oprec_audrec_params/oprec_audrec_config.txt
 
+# Biometrics face firmware
+odm/firmware/uff_face.b00
+odm/firmware/uff_face.b01
+odm/firmware/uff_face.b02
+odm/firmware/uff_face.b03
+odm/firmware/uff_face.b04
+odm/firmware/uff_face.b05
+odm/firmware/uff_face.b06
+odm/firmware/uff_face.b07
+odm/firmware/uff_face.b08
+odm/firmware/uff_face.mdt
+
 # Camera
 odm/bin/hw/vendor.oplus.hardware.cammidasservice-V1-service
 odm/etc/camera/anc/fusion_model
