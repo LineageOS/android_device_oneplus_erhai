@@ -33,4 +33,8 @@
          rates are available from hardware composer. Only has an effect if the value is
          non-zero. -->
     <integer name="config_defaultPeakRefreshRate">120</integer>
+
+    <!-- Enable synchronization of the displays refresh rates by applying the default low refresh
+         rate. -->
+    <bool name="config_refreshRateSynchronizationEnabled">true</bool>
 </resources>
