@@ -31,6 +31,8 @@ blob_fixups: blob_fixups_user_type = {
         .binary_regex_replace(b'vendor.oplus.caihong.serialno', b'ro.boot.chipid' + 15 * b'\x00'),
     'odm/etc/init/init.camera_process.rc': blob_fixup()
         .regex_replace('    delete_recursion', '    #delete_recursion'),
+    'odm/lib64/soundfx/libOplusSpatializerAidl.so': blob_fixup()
+        .add_needed('libbase.so'),
     'odm/lib64/libAlgoProcess.so': blob_fixup()
         .replace_needed('android.hardware.graphics.common-V5-ndk.so', 'android.hardware.graphics.common-V7-ndk.so'),
     (
