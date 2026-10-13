@@ -1349,6 +1349,10 @@ odm/etc/PanelChaplin/panelchaplin
 vendor/etc/displayconfig/display_id_4630946983774026899.xml
 vendor/etc/ltm_config_XN242_p_d_dsc_video_mode_panel.xml
 
+# Display features
+odm/etc/vintf/manifest/vintf_manifext_aidl_panelchaplin.xml
+odm/lib64/libPanelChaplin.so
+
 # Dolby Vision
 odm/bin/hw/dvs-aidl-service
 odm/etc/dolby/display/dolby_vision.cfg
