@@ -1430,6 +1430,7 @@ odm/firmware/tp/24924/sys_touch_scene_config.xml
 odm/etc/wifi/peach/bdwlan.elf
 odm/etc/wifi/peach/regdb.bin
 odm/etc/wifi/peach/regdb_version
+odm/vendor/etc/wifi/WCNSS_qcom_cfg.ini
 
 # Wireless pen firmware
 odm/firmware/wireless_pen/24976/cps8601_firmware.bin;SYMLINK=odm/firmware/wireless_pen/24926/cps8601_firmware.bin
